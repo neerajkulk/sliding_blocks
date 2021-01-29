@@ -2,7 +2,7 @@
 
 ![screenshot](./screenshot.png)
 
-This is a simple javascript implementation of the [15 puzzle game](https://en.wikipedia.org/wiki/15_puzzle). To view it, visit: TODO
+This is a simple javascript implementation of the [15 puzzle game](https://en.wikipedia.org/wiki/15_puzzle). To view it, visit: [neerajkulk.github.io/sliding_blocks/](https://neerajkulk.github.io/sliding_blocks/)
 
 Simply click on the block you want to slide and have fun! The structure of the code involves keeping track of the location of the empty cell globally. This is done using the ```emptyElem``` and ```emptyLoc``` variables. 
 

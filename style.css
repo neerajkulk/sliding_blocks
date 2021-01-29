@@ -1,0 +1,28 @@
+.grid {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid .block {
+    font-size: 5vh;
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    padding-top: 19px;
+    /* center vertically */
+    cursor: pointer;
+    text-align: center;
+    margin: auto;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    border-radius: 12px;
+    background-image: url('block.jpg');
+    background-size: 100%;
+}
+
+.empty {
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+}
